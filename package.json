@@ -30,11 +30,11 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "reflect-metadata": "^0.1.2",
-    "ts-node": "^2.0.0"
+    "reflect-metadata": "^0.1.10",
+    "ts-node": "^2.1.2"
   },
   "peerDependencies": {
-    "@angular/compiler-cli": "^4.0.0"
+    "@angular/compiler-cli": "~4.2.3"
   },
   "devDependencies": {
     "@angular/common": "^2.4.3",
